@@ -1,0 +1,13 @@
+SBMS_FLOW_TERM.MGFHQT Implementation
+SBMS_FLOW_TERM_MGFHQT body
+
+Предупреждение: Тело пакета создано с ошибками компиляции.
+
+Ошибки для PACKAGE BODY SBMS_FLOW_TERM_MGFHQT:
+
+LINE/COL ERROR                                                                  
+-------- -----------------------------------------------------------------      
+125/5    PL/SQL: Statement ignored                                              
+125/5    PLS-00306: ошибочно число или типы аргументов при обращении к          
+         'SUBS_ROAMCALLS'                                                       
+                                                                                
